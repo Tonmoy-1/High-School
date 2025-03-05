@@ -31,6 +31,7 @@ const Navbar = () => {
         <ul className="hidden md:flex space-x-8 text-lg">
           {[
             "Home",
+            "Notice",
             "About Us",
             "Students",
             "Teachers",
@@ -82,6 +83,7 @@ const Navbar = () => {
           <ul className="flex flex-col items-center space-y-4 text-lg">
             {[
               "Home",
+              "Notice",
               "About Us",
               "Students",
               "Teachers",
